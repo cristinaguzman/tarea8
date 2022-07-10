@@ -1,0 +1,62 @@
+a {
+    text-decoration: none;
+    color: #fff;
+    transition: 0.2s;
+    font-size: 20px;
+    img {
+        width: 40px;
+        height: 40px;
+    }
+    .logo {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+.f-custom {
+    font-size: 20px !important;
+}
+
+a:hover {
+    color: rgb(161, 1, 1) !important;
+}
+
+.nav-c__btn {
+    background-color: #000;
+    text-decoration: none;
+    color: #fff !important;
+    padding: 10px 25px;
+}
+
+.nav-c__btn:hover {
+    background-color: #fff;
+    padding: 10px 25px;
+}
+
+a:hover {
+    color: rgba(0, 0, 0, 0.568);
+}
+
+.texto {
+    font-size: 15px;
+    text-align: justify;
+
+
+}
+
+.titulo {
+    font-size: 20px;
+    color:rgb(126, 2, 2);
+    font-weight: bold;
+    
+}
+
+.card {
+    background-color: aquamarine;
+}
+
+@media (max-width:992px) {
+    .navbar-nav {
+        width: 100% !important;
+    }
+}

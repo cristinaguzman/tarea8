@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "Pintura 1",
+            "name": {
+                "title": "Sr",
+                "first": "de",
+                "last": "lastiniebleas"
+            },
+            "location": {
+                "street": {
+                    "number": 307,
+                    "name": "Roscommon Road"
+                },
+                "city": "Timaru",
+                "state": "Waikato",
+                "country": "New Zealand",
+                "postcode": 90753,
+                "coordinates": {
+                    "latitude": "55.2735",
+                    "longitude": "-87.8953"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "david.king@example.com",
+            "login": {
+                "uuid": "4580cdde-94d9-4001-810b-348e4d3985b6",
+                "username": "angrypeacock283",
+                "password": "ashley",
+                "salt": "MsZKbbeU",
+                "md5": "1eb23d825290e26ddbcb3608a512515b",
+                "sha1": "8f8f06788a006d73ba2e0a4af8c6c8d9e76bfda0",
+                "sha256": "d8ca8723e7aa974fa3b8da03ae1bbc3a103289af00df11f4191fc8182a4ac75a"
+            },
+            "dob": {
+                "date": "1960-10-30T20:20:20.874Z",
+                "age": 61
+            },
+            "registered": {
+                "date": "2013-04-16T09:09:46.673Z",
+                "age": 9
+            },
+            "phone": "(282)-553-7333",
+            "cell": "(188)-808-0023",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/89.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+            },
+            "nat": "NZ"
+        }
+    ],
+    "info": {
+        "seed": "c37c444708c42a68",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
